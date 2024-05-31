@@ -76,6 +76,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Contact
 
-Your Name - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - your-mohamedyasar2303@gmail.com
+Your Name - Mohamed Yasar - your-mohamedyasar2303@gmail.com
 
 Project Link: [https://github.com/your-username/e-commerce-selenium-books](https://github.com/your-username/e-commerce-selenium-books)
