@@ -58,35 +58,6 @@ The following test scenarios are covered in this project:
 6. **User Logout:** Log out from the website.
 7. **Re-Registration and Login:** Create another new user account and log in with the new credentials.
 
-## Project Structure
-The project follows the Page Object Model (POM) design pattern. The structure is as follows:
-
-```
-e-commerce-cypress-automation/
-├── cypress/
-│   ├── fixtures/
-│   │   └── data.json
-│   ├── integration/
-│   │   └── tests/
-│   │       └── e-commerce.spec.js
-│   ├── plugins/
-│   │   └── index.js
-│   ├── support/
-│   │   ├── commands.js
-│   │   ├── index.js
-│   │   └── page_objects/
-│   │       ├── LoginPage.js
-│   │       ├── RegistrationPage.js
-│   │       ├── ProductPage.js
-│   │       ├── CartPage.js
-│   │       ├── CheckoutPage.js
-│   │       └── HomePage.js
-├── .gitignore
-├── cypress.json
-├── package.json
-└── README.md
-```
-
 ## Running the Tests
 
 ### Using Cypress Test Runner
