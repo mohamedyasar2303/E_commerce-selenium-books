@@ -1,0 +1,522 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "E-commerese book site",
+    "line": 1,
+    "id": "e-commerese-book-site",
+    "tags": [],
+    "uri": "E_commerese.feature",
+    "elements": [
+      {
+        "id": "e-commerese-book-site;testing-the-over-all-website",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "testing the over all website",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "visiting the website",
+            "result": {
+              "status": "passed",
+              "duration": 17694000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "click on my account menu",
+            "result": {
+              "status": "passed",
+              "duration": 2577000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "enter invalid email id, and password and enter the regester button and clear the email id and enter the valid email id and passoword in the input filed with random function method",
+            "result": {
+              "status": "passed",
+              "duration": 17014000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "clicking the logout button after the regrestation form",
+            "result": {
+              "status": "passed",
+              "duration": 4784000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "enter the emailid and password in the  login field",
+            "result": {
+              "status": "passed",
+              "duration": 811000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "click the login button",
+            "result": {
+              "status": "passed",
+              "duration": 2444000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "click the shop menu button",
+            "result": {
+              "status": "passed",
+              "duration": 5901000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "click the home menu button",
+            "result": {
+              "status": "passed",
+              "duration": 4417000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "checking wheather the home page has 3 sliders only",
+            "result": {
+              "status": "passed",
+              "duration": 17000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "click on the image in the home page i am clicking javascripr image",
+            "result": {
+              "status": "passed",
+              "duration": 3782000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "clicked on the description tab the see about the book. i am clicking js book",
+            "result": {
+              "status": "passed",
+              "duration": 269000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "verify about the description tab",
+            "result": {
+              "status": "passed",
+              "duration": 2030000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "clicked on review tab to see how many person previously bot this book",
+            "result": {
+              "status": "passed",
+              "duration": 6152000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "select the quality box field and clear the default value and generate the random value in the quality box field",
+            "result": {
+              "status": "passed",
+              "duration": 347000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "click the add to basket button",
+            "result": {
+              "status": "passed",
+              "duration": 6961000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 19,
+            "name": "click the menu iteam tab button",
+            "result": {
+              "status": "passed",
+              "duration": 5270000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "select the quality box field and clear the value from it and enter a book by using random function i am going to add 2 books",
+            "result": {
+              "status": "passed",
+              "duration": 2375000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 21,
+            "name": "click the update basket button to see the changes",
+            "result": {
+              "status": "passed",
+              "duration": 155000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "click the shop button",
+            "result": {
+              "status": "passed",
+              "duration": 5336000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 23,
+            "name": "Click any of the product links available in the product category i am clicking on html book",
+            "result": {
+              "status": "passed",
+              "duration": 4716000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "select sort by Popularity",
+            "result": {
+              "status": "passed",
+              "duration": 2245000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "click sort by popularity",
+            "result": {
+              "status": "passed",
+              "duration": 126000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 26,
+            "name": "select sort by average",
+            "result": {
+              "status": "passed",
+              "duration": 2202000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 27,
+            "name": "click sort by average",
+            "result": {
+              "status": "passed",
+              "duration": 1116000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 28,
+            "name": "going to add html 5 book into the basket",
+            "result": {
+              "status": "passed",
+              "duration": 2156000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 29,
+            "name": "User can view that Book in the Menu item with price",
+            "result": {
+              "status": "passed",
+              "duration": 1454000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 30,
+            "name": "remove the secong book from the grid which is in the checkout page",
+            "result": {
+              "status": "passed",
+              "duration": 185000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 31,
+            "name": "now selecting the coupen code field the enterning the coupen code",
+            "result": {
+              "status": "passed",
+              "duration": 2964000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 32,
+            "name": "click the coupen code button if the book price is more than 450 the coupen code will reduce 50 rs from the final amount",
+            "result": {
+              "status": "passed",
+              "duration": 2174000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 33,
+            "name": "click on Update Basket to reflect those changes",
+            "result": {
+              "status": "passed",
+              "duration": 112000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 34,
+            "name": "Now click on Proceed to Check out button",
+            "result": {
+              "status": "passed",
+              "duration": 4850000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 35,
+            "name": "enterning the fitst name , lastname , company name, email id, phonenumber,select Åland Islands from the drop down , fill the address in the billing page and enter city name, zipcode and text box",
+            "result": {
+              "status": "passed",
+              "duration": 13007000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 36,
+            "name": "clcik on cash on delivery button",
+            "result": {
+              "status": "passed",
+              "duration": 1141000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 37,
+            "name": "click on place the order button",
+            "result": {
+              "status": "passed",
+              "duration": 10501000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 38,
+            "name": "clicked on my account menu",
+            "result": {
+              "status": "passed",
+              "duration": 2706000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 39,
+            "name": "clicked on order link",
+            "result": {
+              "status": "passed",
+              "duration": 5916000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 40,
+            "name": "clicked on viewed button to see the order and clicked back button",
+            "result": {
+              "status": "passed",
+              "duration": 8816000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 41,
+            "name": "user clicked on address link to see the biling address and shipping address",
+            "result": {
+              "status": "passed",
+              "duration": 4778000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 42,
+            "name": "going the change the shipping address so i am going to click the edit button",
+            "result": {
+              "status": "passed",
+              "duration": 14375000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 43,
+            "name": "enter the firstname, lastname, company name, and select Åland Islands from the drop down , address , distict and enter zipcode",
+            "result": {
+              "status": "passed",
+              "duration": 5538000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 44,
+            "name": "click the save shipping address button",
+            "result": {
+              "status": "passed",
+              "duration": 5300000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 45,
+            "name": "click on my account detail link to change the new passowrd",
+            "result": {
+              "status": "passed",
+              "duration": 4362000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 46,
+            "name": "enter the first name , lastname, emailid ,current password , new password , and conform passowrd",
+            "result": {
+              "status": "passed",
+              "duration": 6088000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 47,
+            "name": "clicked on save change button in the my account link page",
+            "result": {
+              "status": "passed",
+              "duration": 4829000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 48,
+            "name": "clicked on logout link to logout",
+            "result": {
+              "status": "passed",
+              "duration": 1868000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "e-commerese-book-site;2-login-with-new-password",
+        "keyword": "Scenario",
+        "line": 50,
+        "name": "2 login with new password",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 51,
+            "name": "visiting the website",
+            "result": {
+              "status": "passed",
+              "duration": 11698000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 52,
+            "name": "click on my account menu",
+            "result": {
+              "status": "passed",
+              "duration": 5382000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 53,
+            "name": "now user can see the login and regestion from now use going to enter the valid credintial in the login from user going to enter emaild id and new password in the login page",
+            "result": {
+              "status": "passed",
+              "duration": 803000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 54,
+            "name": "clicked on login button after enter the valid credinitial",
+            "result": {
+              "status": "passed",
+              "duration": 2263000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
