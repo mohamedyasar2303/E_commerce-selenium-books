@@ -1,6 +1,5 @@
 
 ## E-Commerce Selenium Books
-Here's a sample README file for your GitHub repository detailing your Cypress automation project:
 
 ---
 
